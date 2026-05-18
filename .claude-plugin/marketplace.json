@@ -11,8 +11,8 @@
       "description": "Skills For Real Engineers by Matt Pocock — 14 engineering and productivity skills, with /<name> slash command shims",
       "category": "development",
       "source": {
-        "source": "github",
-        "repo": "cxbrickfavor/skills"
+        "source": "url",
+        "url": "https://github.com/cxbrickfavor/skills.git"
       },
       "homepage": "https://github.com/mattpocock/skills"
     }
